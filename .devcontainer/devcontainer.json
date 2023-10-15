@@ -1,0 +1,7 @@
+{npm install --global @subsquid/cli@latest
+ 
+  sqd --version
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+  }
+}
